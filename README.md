@@ -38,6 +38,5 @@ In order to do this, you **do not** need to create new forks of these projects. 
   - [ ] Reseach the Git commands `reset `, `revert`, `clean`. These commands will allow you to go back and ammends previous commits you have made.
 
 - [ ] Research and set up a Graphical User Interface (GUI) Git console. 
-
-- [ ] Research and setup SSH keys with Github, so that you do not need to input your username/password each time you push. 
+- [x] Research and setup SSH keys with Github, so that you do not need to input your username/password each time you push. 
 
