@@ -14,22 +14,22 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
   - [x] Run your usual git commands for adding/commiting and pushing **Be sure to push to your branch!**
 - [x] Create a Pull-Request to submit your work
   - [ ] Use your own student fork as the base (compare across forks, base-fork -> master).
-  - [ ] Add your PM as a reviewer on the Pull-Request
-- [ ] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
+  - [x] Add your PM as a reviewer on the Pull-Request
+- [x] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
 ## Part Two:
 Go back and follow the same steps for your [UI-III-Flexbox project](https://github.com/LambdaSchool/UI-III-Flexbox) and your [User Interface - Great Idea Project](https://github.com/LambdaSchool/User-Interface).
 
 In order to do this, you **do not** need to create new forks of these projects. Follow the steps below for each project:
 
-- [ ] Add your PM as a collaborator to your fork. 
-- [ ] Go into your project folder, make a new branch `firstname-lastname`
-- [ ] Add your first and last name to the README.md file in the project and save.
-- [ ] add/commit/and push to your own branch  **Be sure to push to your branch!**
-- [ ] Create a Pull-Request to submit your work
-  - [ ] Use your own student fork as the base (compare across forks, base-fork -> master).
-  - [ ] Add your PM as a reviewer on the Pull-Request
-- [ ] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
+- [x] Add your PM as a collaborator to your fork. 
+- [x] Go into your project folder, make a new branch `firstname-lastname`
+- [x] Add your first and last name to the README.md file in the project and save.
+- [x] add/commit/and push to your own branch  **Be sure to push to your branch!**
+- [x] Create a Pull-Request to submit your work
+  - [x] Use your own student fork as the base (compare across forks, base-fork -> master).
+  - [x] Add your PM as a reviewer on the Pull-Request
+- [x] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
 ## Stretch
 - [ ] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independantly research the following topics to learn more about Git.
